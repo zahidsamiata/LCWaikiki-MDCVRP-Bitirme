@@ -1,0 +1,14 @@
+# Makine-bagimli / gecici
+*.lst
+logs/
+cache/
+__pycache__/
+*.pyc
+
+# AI arac izleri (guvenlik icin)
+.claude/
+.rtk/
+CLAUDE.md
+*_check.py
+*_YEDEK_*.py
+*_yedek.py
